@@ -1,0 +1,53 @@
+spam_detection_comparison.ipynb
+│
+├── 1. Introduction & Problem Statement
+│   └── What is spam, why ML, what we'll compare
+│
+├── 2. Import Libraries
+│   └── numpy, pandas, matplotlib, sklearn
+│
+├── 3. Load & Explore Data (EDA)
+│   ├── Load spam.csv
+│   ├── Check shape, null values
+│   ├── Class distribution plot
+│   └── Message length analysis
+│
+├── 4. Text Preprocessing
+│   ├── Lowercase conversion
+│   ├── Remove punctuation/stopwords
+│   └── TF-IDF Vectorization
+│
+├── 5. Train/Test Split
+│   └── 80/20 split using sklearn
+│
+├── 6. Model 1 — Naïve Bayes
+│   ├── Train MultinomialNB
+│   ├── Predict
+│   └── Accuracy, Precision, Recall, F1
+│
+├── 7. Model 2 — Logistic Regression
+│   ├── Train LogisticRegression
+│   ├── Predict
+│   └── Accuracy, Precision, Recall, F1
+│
+├── 8. Model 3 — KNN
+│   ├── Train KNeighborsClassifier
+│   ├── Predict
+│   └── Accuracy, Precision, Recall, F1
+│
+├── 9. Visual Comparison
+│   ├── Confusion matrix for each model
+│   ├── Bar chart — all metrics side by side
+│   └── ROC curve comparison
+│
+├── 10. Results & Conclusion
+│    ├── Which model won and why
+│    └── Key takeaways
+│
+└── 11. Bonus — Transformer Embeddings
+     ├── Load small BERT model
+     ├── Compare embeddings vs TF-IDF
+     └── Observations
+
+
+     
