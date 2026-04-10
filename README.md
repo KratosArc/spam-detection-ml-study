@@ -84,4 +84,4 @@ jupyter notebook notebook/spam_detection_comparison.ipynb
 
 ## 👨‍💻 Author
 **Jiveshwar Singh Rathore**  | Aspiring ML & GenAI Engineer  
-[LinkedIn](#) | [GitHub](#)
+[LinkedIn](https://www.linkedin.com/in/jiveshwarrathore/) |
