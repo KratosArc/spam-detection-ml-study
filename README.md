@@ -1,6 +1,6 @@
 # 📧 SMS Spam Detection — ML Algorithm Comparison Study
 
-## 🌐 Live Demo You can Take Here 
+## 🌐 Live Demo to Test 
 👉 [Test the API here](https://spam-detector-api-srfp.onrender.com/docs)
 
 ![Python](https://img.shields.io/badge/Python-3.14-blue)
