@@ -1,6 +1,6 @@
-# 📧 SMS Spam Detection — ML Algorithm Comparison Study
+📧 SMS Spam Detection — ML Algorithm Comparison Study
 
-## 🌐 Live Demo
+## 🌐 Live Demo You can Take Here 
 👉 [Test the API here](https://spam-detector-api-srfp.onrender.com/docs)
 
 ![Python](https://img.shields.io/badge/Python-3.14-blue)
@@ -84,4 +84,4 @@ jupyter notebook notebook/spam_detection_comparison.ipynb
 
 ## 👨‍💻 Author
 **Jiveshwar Singh Rathore**  | Aspiring ML & GenAI Engineer  
-[LinkedIn](https://www.linkedin.com/in/jiveshwarrathore/) |
+[LinkedIn](https://www.linkedin.com/in/jiveshwarrathore/) 
