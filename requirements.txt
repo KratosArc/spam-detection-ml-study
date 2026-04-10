@@ -1,7 +1,6 @@
-numpy
-pandas
-matplotlib
-seaborn
+fastapi
+uvicorn
 scikit-learn
 joblib
-jupyter
+numpy
+pandas
