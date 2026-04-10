@@ -1,4 +1,4 @@
-📧 SMS Spam Detection — ML Algorithm Comparison Study
+# 📧 SMS Spam Detection — ML Algorithm Comparison Study
 
 ## 🌐 Live Demo You can Take Here 
 👉 [Test the API here](https://spam-detector-api-srfp.onrender.com/docs)
